@@ -9,10 +9,12 @@
   ],
   "license": "ISC",
   "author": "abc@example.com",
-  "access": "public",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "node ./index.test.js"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

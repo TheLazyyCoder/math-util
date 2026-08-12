@@ -1,0 +1,17 @@
+{
+  "name": "math-util",
+  "version": "1.0.0",
+  "description": "To perform mathematical operation",
+  "keywords": [
+    "math",
+    "add",
+    "sub"
+  ],
+  "license": "ISC",
+  "author": "abc@example.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.test.js"
+  }
+}

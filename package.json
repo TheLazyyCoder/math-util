@@ -1,5 +1,5 @@
 {
-  "name": "math-util",
+  "name": "@ssb.dev/math-util",
   "version": "1.0.0",
   "description": "To perform mathematical operation",
   "keywords": [
@@ -9,6 +9,7 @@
   ],
   "license": "ISC",
   "author": "abc@example.com",
+  "access": "public",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {

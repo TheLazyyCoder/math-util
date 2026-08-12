@@ -12,7 +12,7 @@ jobs:
     # Required permissions for Trusted Publishing / OpenID Connect
     permissions:
       id-token: write
-      contents: write
+      contents: read
 
     steps:
       - name: Checkout repository
